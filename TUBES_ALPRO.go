@@ -7,6 +7,8 @@ import (
 	"runtime" // Import runtime untuk mendeteksi sistem operasi
 )
 
+// Ini komentar tambahan untuk tugas Git
+
 // clearScreen membersihkan layar konsol.
 // Fungsi ini mendeteksi sistem operasi dan menjalankan perintah yang sesuai.
 func clearScreen() {
